@@ -1,0 +1,3 @@
+# Data Structure - Tuple (元組)
+a_tuple = (1,2)
+a_tuple
